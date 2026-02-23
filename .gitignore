@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env*
+!.env.example
+*.sqlite
+*.sqlite3
+__pycache__/
+*.pyc
+client_secret*.json
+temp/
+.agent/
+.gemini/
+dist/
+build/
